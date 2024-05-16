@@ -1,0 +1,16 @@
+.inline {
+    display: inline;
+}
+
+body {
+    background-color:lavenderblush;
+}
+
+.addtask {
+    margin-left: 43%;
+    margin-top: 3%;
+}
+
+.tasklist {
+    margin-left: 5%;
+}
